@@ -3,6 +3,7 @@
 CreateLibrary.py
 update_git_repo.ps1
 CreatePySaviyntLib.py
+createRepo.ps1
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
